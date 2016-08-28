@@ -3,11 +3,12 @@
 
 ## Catalog
 
-* Chapter 1 前端发展史   
+* [Chapter 1 前端发展史](https://github.com/zfeng217/belivar_guide/blob/dev/content/1/1.1.md)   
   [1.1 前端架构变迁](https://github.com/zfeng217/belivar_guide/blob/dev/content/1/1.1.md)   
-  1.2 模块化组件化   
-  1.3 SPA和MPA   
-  1.4 JS库依赖管理
+  [1.2 模块化](https://github.com/zfeng217/belivar_guide/blob/dev/content/1/1.2.md)   
+  1.3 组件化
+  1.4 SPA和MPA   
+  1.5 JS库依赖管理
 * Chapter 2 常用模块化加载JS库介绍   
   2.1 require.js   
   2.2 sea.js   
